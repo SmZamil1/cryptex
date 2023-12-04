@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/smzamil1/cryptex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/smzamil1/cryptex?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/smzamil1?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
+  [![YouTube Video Views](https://img.shields.io/youtube/likes/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
   <br />
