@@ -2,7 +2,7 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/smzamil1/cryptex)
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/smzamil1?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Crypto_Zamil?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
   [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
